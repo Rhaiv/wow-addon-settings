@@ -1,0 +1,1 @@
+# Default Profiles for my commonly used World of Warcraft addons
